@@ -9,3 +9,14 @@ comments: false
 
 
 first lines
+
+
+Try a twitter post with gems:  
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/asierberra/status/1114298321114488833 maxwidth=500 limit=5 %}
+</div>
+
+
+Or try with HTML  
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/oCF3QBGbSw">https://t.co/oCF3QBGbSw</a></p>&mdash; asier (@asierberra) <a href="https://twitter.com/asierberra/status/1114298321114488833?ref_src=twsrc%5Etfw">April 5, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
