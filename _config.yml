@@ -1,17 +1,17 @@
 # Site settings
-title: "Paper Jekyll Theme"
+title: "my world views"
 description: > 
-  Write a description of your website here.
+  Just observations, ideas, appreciations etc
 
-author: Johnny Appleseed
-email: johnny@appleseed.com
+author: Asier Berra
+email: x
 twitter_username: _HairForceOne
 github_username: mkchoi212
 
-baseurl: "/paper-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://deadbeef.me" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://asierberra.github.io" # the base hostname & protocol for your site
 
-google_analytics_id: UA-1111111111-1
+google_analytics_id: 
 disqus_id:
 
 # Build settings
