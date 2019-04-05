@@ -5,8 +5,8 @@ description: >
 
 author: Asier Berra
 email: x
-twitter_username: _HairForceOne
-github_username: mkchoi212
+twitter_username: asierberra
+github_username: asierberra
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://asierberra.github.io" # the base hostname & protocol for your site
