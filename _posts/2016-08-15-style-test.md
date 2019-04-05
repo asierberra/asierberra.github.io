@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "A Full and Comprehensive Style Test"
+title: "A Full and Comprehensive Style Test X"
 description: "Test post for style"
-date: 2016-08-15
+date: 2018-08-15
 tags: test, style
 comments: true
 ---
