@@ -230,7 +230,7 @@ manufacturing.
 
 But surely, the most important quality in this new world will be being strong.
 
-
+---------------
 
 ## References
 
@@ -239,6 +239,19 @@ But surely, the most important quality in this new world will be being strong.
 [3] [https://en.wikipedia.org/wiki/Pascal%27s_wager](https://en.wikipedia.org/wiki/Pascal%27s_wager)
 [4] [https://en.wikipedia.org/wiki/Easter_Island](https://en.wikipedia.org/wiki/Easter_Island)
 
+
+
+---------------
+
+## Twitter discussion:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A blog post about thoughts on climate change<a href="https://t.co/aq1ej2yqCS">https://t.co/aq1ej2yqCS</a></p>&mdash; asier (@asierberra) <a href="https://twitter.com/asierberra/status/1140285929359327234?ref_src=twsrc%5Etfw">June 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+Edit
+
+[https://github.com/asierberra/asierberra.github.io/blob/master/_posts/2019-06-16-the-world-is-gonna-change....md](https://github.com/asierberra/asierberra.github.io/blob/master/_posts/2019-06-16-the-world-is-gonna-change....md)
 
 
 
