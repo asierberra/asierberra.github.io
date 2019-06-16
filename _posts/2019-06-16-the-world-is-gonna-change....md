@@ -228,7 +228,9 @@ Perhaps the most valuable knowledge in the mid-term future is something
 like agriculture, or climate engineering, or ultra-high-tech minimalist 
 manufacturing.
 
-But surely, the most important quality in this new world will be being strong.
+But surely, the most important quality in this new world will be being strong. Because, the world
+as we know it is gonna change...
+
 
 ---------------
 
