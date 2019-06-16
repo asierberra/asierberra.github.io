@@ -180,7 +180,13 @@ when things are really bad (pessimistic scenarios above).
 So the only realistic path for hope is **technology**. Ideally, we start focusing all of our resources
 into reducing emissions. No more useless economy (like cosmetics or tourism); it is a war-effort
 against emissions. We must develop technology to reduce them at all cost, in all fronts. Nuclear,
-storage, solar, recycling, new manufacturing, ... And above all, new consumers and new lifestyles.
+storage, solar, recycling, new manufacturing, ...
+
+And above all, new consumers and new lifestyles. Means of transport  currently causes inevitable emissions,
+so there will be much fewer transportation while it relies on emissions (like planes).
+Manufacturing means emissions, so there will be much less careless consumism. We will have to get
+used to having less, moving less. We will have to forget our golden consumerism times
+and accept the new reality of austerity.
 
 But we consumers and free-markets are currently responding too slowly, 
 so if something is to happen, then it will have to be imposed: radical
