@@ -235,8 +235,11 @@ But surely, the most important quality in this new world will be being strong.
 ## References
 
 [1] A world without clouds, [https://www.quantamagazine.org/cloud-loss-could-add-8-degrees-to-global-warming-20190225/](https://www.quantamagazine.org/cloud-loss-could-add-8-degrees-to-global-warming-20190225/)
+
 [2] Before the flood, [https://www.netflix.com/title/80141928](https://www.netflix.com/title/80141928)
+
 [3] [https://en.wikipedia.org/wiki/Pascal%27s_wager](https://en.wikipedia.org/wiki/Pascal%27s_wager)
+
 [4] [https://en.wikipedia.org/wiki/Easter_Island](https://en.wikipedia.org/wiki/Easter_Island)
 
 
