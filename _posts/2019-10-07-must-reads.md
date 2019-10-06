@@ -23,9 +23,9 @@ By David Korowicz ([@davidkorowicz](https://twitter.com/davidkorowicz)) from [Ge
 
 Subtitile: how will the world cope as more extreme weather becomes the norm?
 
-This is just an article but I believe it contains this visionary insight:
+This is just a brief article but I believe it contains this bit of visionary insight:
 
-> Once temperatures rise, the problems of a hotter daily life will dominate politics: less water, more illness, lower productivity, unlivable regions and, in Europe, a permanent cordon of ships in the Mediterranean to stop climate refugees from the Middle East and Africa. All other political issues, from healthcare to housing, will become secondary. The role model for leaders will be Churchill in the second world war: nothing matters except victory in the existential struggle.
+> *Once temperatures rise, the problems of a hotter daily life will dominate politics: less water, more illness, lower productivity, unlivable regions and, in Europe, a permanent cordon of ships in the Mediterranean to stop climate refugees from the Middle East and Africa. All other political issues, from healthcare to housing, will become secondary. The role model for leaders will be Churchill in the second world war: nothing matters except victory in the existential struggle.*
 
 [https://amp.ft.com/content/d7ec60e6-9b9a-11e9-b8ce-8b459ed04726](https://amp.ft.com/content/d7ec60e6-9b9a-11e9-b8ce-8b459ed04726)
 
