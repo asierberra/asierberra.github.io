@@ -48,24 +48,25 @@
 
     h2 {
         @include fs--heading-2;
-	padding: 20px;
+	padding-top: 40px;
         font-weight: bold
     }
 
     h3 {
         @include fs--heading-3;
-	padding: 15px;
+	padding-top: 30px;
         font-weight: bold
     }
 
     h4 {
         @include fs--heading-4;
-	padding: 10px;
+	padding-top: 20px;
         font-weight: bold
     }
 
     h5 {
         @include fs--body;
+        padding-top: 10px;
 	font-weight: bold
     }
 
