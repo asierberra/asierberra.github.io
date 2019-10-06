@@ -44,11 +44,21 @@ header a {
   padding: 5px 1px;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
+h1 {
+  padding: 5px 1px;
+},
+h2 {
+  padding: 5px 1px;
+},
+h3 {
+  padding: 5px 1px;
+},
+h4 {
+  padding: 5px 1px;
+},
+h5 {
+  padding: 5px 1px;
+},
 h6 {
     font-weight: 400;
     color: $c-base__02;
