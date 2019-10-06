@@ -10,7 +10,7 @@ comments: false
 An opinionated selection of things well worth reading
 
 
-### Brexit, Systemic Risk, and a Warning for a Changing World
+## Brexit, Systemic Risk, and a Warning for a Changing World
 
 This is about the complexity in our societies and economies (as evidenced by the Brexit quasi-experiment), and the huge hidden risks that it entails. Really interesting.
 
@@ -19,7 +19,7 @@ By David Korowicz ([@davidkorowicz](https://twitter.com/davidkorowicz)) from [Ge
 
 ----
 
-### Emission impossible? Harsh facts on climate change
+## Emission impossible? Harsh facts on climate change
 
 Subtitile: how will the world cope as more extreme weather becomes the norm?
 
